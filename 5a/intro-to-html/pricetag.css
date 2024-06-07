@@ -1,0 +1,38 @@
+p {
+    font-style: Arial;
+}
+
+.ptag {
+    margin-bottom: 0px;
+}
+
+.price {
+    font-size: 27px;
+    font-weight: bold;
+    margin-right: 8px;
+    margin-bottom: 0px;
+    margin-right: 2px;
+}
+
+.usd {
+    font-size: 15px;
+    color: gray;
+    margin-bottom: 0px;
+}
+
+.discount {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    color: rgb(50, 156, 50);
+}
+
+.discount-after {
+    color: gray;
+    margin-top: 5px
+    
+}
+
+.red {
+    color: rgb(223, 67, 67);
+}
